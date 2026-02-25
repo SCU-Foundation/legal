@@ -2,6 +2,11 @@
 
 This document describes the structure of the Legal repository.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ## Root
 
 - `README.md` — overview of the Legal repository  
@@ -29,4 +34,4 @@ These documents define the legal framing for:
 - REPO: Specifications  
 - REPO: Architecture  
 - All public surfaces  
-- All SCU Foundation programs  
+- All SCU Foundation programs
