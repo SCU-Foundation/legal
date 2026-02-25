@@ -2,6 +2,11 @@
 
 This repository is governed by the SCU Foundation under the Ecosystem Era (vE1.x).
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ## Governance Authority
 
 - **Umbrella Body:** SCU Foundation  
@@ -39,4 +44,4 @@ All structural changes MUST follow:
 
 All update sequencing MUST follow:
 
-- REPO: Governance — /global-rules/USC-vE1.1.md  
+- REPO: Governance — /global-rules/USC-vE1.1.md
