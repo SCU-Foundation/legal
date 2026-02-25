@@ -5,6 +5,11 @@ These documents define the Foundation’s public‑facing legal commitments, dis
 
 All documents in this repository are canonical, pre‑normative, and maintained by the SCU Foundation as part of its long‑term, neutral, public‑good stewardship.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ---
 
 ## Purpose
@@ -64,9 +69,9 @@ This repository includes:
 
 This repository does **not** include:
 
-- governance documents (see `governance/`)  
-- global‑rules documents (see `global-rules/`)  
-- standards or specifications (see `specifications/`)  
+- governance documents (see REPO: Governance — /)  
+- global‑rules documents (see REPO: Governance — /global-rules/)  
+- standards or specifications (see REPO: Standards — / and REPO: Specifications — /)  
 - research outputs (LRI)  
 - website source code (`scu-foundation/`)  
 
@@ -102,4 +107,4 @@ Legal documents are maintained to ensure global accessibility, neutrality, and l
 
 For legal or compliance inquiries:
 
-**Email:** contact@scu.foundation  
+**Email:** contact@scu.foundation
