@@ -2,6 +2,11 @@
 
 This repository is part of the SCU ecosystem and follows the SCU Foundation’s global Code of Conduct.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 All contributors MUST:
 
 - act respectfully and professionally  
