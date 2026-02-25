@@ -3,6 +3,11 @@
 This repository contains the canonical legal and compliance documents of the SCU Foundation.  
 These documents define the Foundation’s public‑facing legal commitments, disclosure pathways, licensing terms, and institutional guarantees.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ## Document Status
 
 All documents in this repository are:
@@ -28,9 +33,9 @@ Documents evolve collectively as part of the Foundation’s legal surface and do
 
 This repository does **not** include:
 
-- governance documents (see `governance/`)  
-- global‑rules documents (see `global-rules/`)  
-- standards or specifications (see `specifications/`)  
+- governance documents (see REPO: Governance — /)  
+- global‑rules documents (see REPO: Governance — /global-rules/)  
+- standards or specifications (see REPO: Standards — / and REPO: Specifications — /)  
 - research outputs (LRI)  
 - website source code (`scu-foundation/`)  
 
