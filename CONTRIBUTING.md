@@ -2,6 +2,11 @@
 
 Thank you for your interest in contributing to the SCU ecosystem.
 
+The canonical repository index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ## Scope of This Repository
 
 This repository contains the **legal and compliance surfaces** of the SCU ecosystem, including:
